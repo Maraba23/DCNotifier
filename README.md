@@ -367,7 +367,7 @@ class PerformanceMonitorMiddleware:
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests no repositório do projeto: [https://github.com/seu-usuario/dcnotifier](https://github.com/seu-usuario/dcnotifier)
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests no repositório do projeto: [https://github.com/seu-usuario/dcnotifier](https://github.com/maraba23/dcnotifier)
 
 ## Licença
 
