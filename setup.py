@@ -19,7 +19,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',  # Formato do README
     
-    license='Apache-2.0'  # Tipo de licença
+    license='Apache-2.0',  # Tipo de licença
     url='https://github.com/Maraba23/DCNotifier',  # Repositório do projeto
 
     # CLASSIFIERS ajudam o PyPI a categorizar seu pacote
